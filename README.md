@@ -1,6 +1,8 @@
 ## School managing system made in C
 This is a project from college where we build a manage system to work like a database only in C.
 In this system you are able to manage the teachers, students, class, or grades, with relations between them, every student has a grade in class, every class has its own teacher, and every teacher and student has its own adress. 
+
+
 ![MainMenu](https://user-images.githubusercontent.com/87271192/190913958-8da434aa-4225-4eda-abb3-d722d5f8d891.png)
 
 ## High Scale text at the start
