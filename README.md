@@ -9,6 +9,10 @@ In this system you are able to manage the teachers, students, class, or grades, 
 Using the code i write previously, the
 [Title-Generator](https://github.com/JaaumG/Title-Generator) is able to generate text in a 5x5 size letter, by running for loops its able to write the letter on a matrix of the same size, on this project i just edit the code so its works like a function.
 
+## Database Scheme
+![image](https://user-images.githubusercontent.com/87271192/192541725-45722a77-a0e9-4cf2-b999-f1c5f14d15ec.png)
+
+
 ## Team
 This project was made with:
 
